@@ -1,0 +1,5 @@
+{
+    "prefix": "~!",
+    "bot_token": "token goes here",
+    "logs_channel": "bot-logs"
+}
